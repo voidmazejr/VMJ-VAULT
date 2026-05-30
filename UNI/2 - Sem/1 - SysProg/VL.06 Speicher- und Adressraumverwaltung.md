@@ -72,13 +72,13 @@ $$\boxed{\text{Virtuelle Adresse} \xrightarrow{\text{Abbildung}} \text{Physische
 
 Beim **Paging** werden virtueller und physischer Speicher in gleich große Blöcke fester Länge geteilt.
 
-| Begriff | Bedeutung |
-|---|---|
-| **Seite (page)** | Block im virtuellen Adressraum |
-| **Kachel / Pageframe** | Block im physischen Speicher |
-| **Seitentabelle** | Abbildung von Seite auf Kachel |
+| Begriff                | Bedeutung                      |
+| ---------------------- | ------------------------------ |
+| **Seite (page)**       | Block im virtuellen Adressraum |
+| **Kachel / Pageframe** | Block im physischen Speicher   |
+| **Seitentabelle**      | Abbildung von Seite auf Kachel |
 
-$$\boxed{\text{Paging} = \text{Zuordnung gleich großer Seiten auf gleich große Pageframes}}$$
+$$\boxed{\text{Paging} = \text{virtuelle und physikalische Speicher in Stücke fester Länge eingeteilt}}$$
 
 Die Größe ist meist $4\,\text{KiB}$, weil dies ein guter Kompromiss zwischen Verwaltungsaufwand und Effizienz ist.
 
@@ -105,15 +105,15 @@ Für jede virtuelle Seite braucht man Informationen darüber, ob sie gültig ist
 $$\boxed{\text{Seitentabelleneintrag} = (\text{Kachelnummer}, \text{Metadaten})}$$
 
 **Wichtige Metadaten:**
-- **Present / P**: Seite ist im Hauptspeicher.
-- **Write / W**: Schreiben erlaubt.
-- **Execute / X**: Ausführen erlaubt.
-- **User / U**: Zugriff durch unprivilegierten Code erlaubt.
-- **Accessed / R / A**: Seite wurde gelesen.
-- **Dirty / D / M**: Seite wurde verändert.
+- **Präsenzbit, presence bit P:** Seite im Hauptspeicher vorhanden?
+- **Referenzbit, reference bit R oder access bit A:** Wurde auf die Seite bereits zugegriffen?
+- **Modifikationsbit, dirty bit D oder modification bit M:** Wurde die seite modifiziert?
 
 > [!note] **Wichtig**
 > Die Bits **R** und **D** werden von der CPU gesetzt und helfen dem Betriebssystem bei Ersetzungsstrategien.
+
+
+![[Seitentabelle.excalidraw|700]]
 
 ### Adressübersetzung mit Seitentabelle
 
@@ -197,7 +197,7 @@ $$\boxed{\text{Verdrängung} = \text{Auslagerung einzelner Seiten bei Speicherkn
 
 Wenn eine ausgelagerte oder noch nicht geladene Seite angesprochen wird, entsteht ein **Page Fault**.
 
-#### Ablauf bei Page Fault
+### Ablauf bei Page Fault
 
 1. Zugriff auf eine ungültige Seite.
 2. Page Fault wird ausgelöst.
@@ -207,21 +207,8 @@ Wenn eine ausgelagerte oder noch nicht geladene Seite angesprochen wird, entsteh
 6. Neue Seite wird eingelagert.
 7. Seitentabelle wird aktualisiert.
 
-```mermaid
-flowchart TD
-    A[Zugriff auf virtuelle Adresse] --> B{Seite vorhanden?}
-    B -- Ja --> C[Weiterlauf]
-    B -- Nein --> D[Page Fault]
-    D --> E{Freie Kachel vorhanden?}
-    E -- Ja --> F[Neue Seite laden]
-    E -- Nein --> G[Opferseite auswählen]
-    G --> H{Dirty-Bit gesetzt?}
-    H -- Ja --> I[Seite auslagern]
-    H -- Nein --> F
-    I --> F
-    F --> J[Seitentabelle aktualisieren]
-    J --> C
-```
+
+![[Detaillierter-Ablauf.excalidraw|700]]
 
 > [!info] **Rolle des Dirty-Bits**
 > Ist eine Seite nicht verändert worden, muss sie vor dem Verdrängen oft nicht gespeichert werden.
