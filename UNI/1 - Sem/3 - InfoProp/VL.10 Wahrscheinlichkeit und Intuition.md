@@ -569,5 +569,5 @@ Ab $k = 23$: $P > 50\%$
 
 - [[VL.XX Statistik]]: Bedingte Wahrscheinlichkeit und Bayes in der Datenanalyse
 - [[VL.07 Künstliche Intelligenz]]: Wahrscheinlichkeiten in ML-Modellen
-- [[VL.08 Bias, Fairness und Power in AI]]: Base Rate Fallacy bei False Positives
+- [[VL.08 AI Bias und Data Ethics]]: Base Rate Fallacy bei False Positives
 - [[VL.XX Algorithmische Komplexität]]: Kombinatorik zur Abschätzung von Laufzeiten

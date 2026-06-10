@@ -353,8 +353,8 @@ $$E_1 \times E_2 := \{(e_1, e_2) \mid (e_1 \in E_1) \land (e_2 \in E_2)\}$$
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
 - [[VL.01 Einführung]]: DBMS-Architektur und Drei-Ebenen-Schema (Grundlage dieser VL)
-- [[ISDA VL.03]]: Datenbankmodellierung II — EER-Modellierung, Abstraktionskonzepte
+- [[VL.03 Datenbankmodellierung II]]: Datenbankmodellierung II — EER-Modellierung, Abstraktionskonzepte
 - [[VL.01 Mengen]]: Mengenlehre (Entity-Typen als Mengen, kartesisches Produkt)
 - [[VL.02 Inferenz und Regelschemata]]: Prädikatenlogik (Formalisierung von Integritätsbedingungen mit $\forall$, $\exists$)
-- [[FoG §7]]: Relationen als mathematische Grundlage für Relationship-Typen
-- [[FoG §8]]: Funktionen als Grundlage für Attribut-Interpretationen
+- [[VL.06 Relationen]]: Relationen als mathematische Grundlage für Relationship-Typen
+- [[VL.07 Abbildunge Funktionen & Kardinalität]]: Funktionen als Grundlage für Attribut-Interpretationen

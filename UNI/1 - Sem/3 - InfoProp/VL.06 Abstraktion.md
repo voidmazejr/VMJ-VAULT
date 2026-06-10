@@ -1020,7 +1020,7 @@ $\text{Validität} = \frac{\text{Was tatsächlich gemessen wird}}{\text{Was geme
 
 ### Informatik-Konzepte
 
-- [[VL.04 Algorithmen & Objektivität]]: Euklidischer Algorithmus, Sieb des Eratosthenes
+- [[VL.04 Turing Machine, Algorithmen, Objektivität]]: Euklidischer Algorithmus, Sieb des Eratosthenes
 - **Datenstrukturen:** Binärbäume als spezielle Graphen
 - **Algorithmen:** Suchalgorithmen (BFS, DFS, A*), Traversierung
 - **KI:** Heuristische Suche, Problemlösen

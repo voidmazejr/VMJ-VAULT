@@ -218,7 +218,7 @@ $$\boxed{\frac{f(t^-) + f(t^+)}{2} = \frac{a_0}{2} + \sum_{k=1}^\infty (a_k \cos
 
 **Beispiel 1: Sägezahnkurve**
 
-Die 2-periodische Funktion $f(t) = \begin{cases} 1-t, & 0 < t < 2 \\ 0, & t = 0 \end{cases}$ aus [[VL.37 Fourieranalysis]].
+Die 2-periodische Funktion $f(t) = \begin{cases} 1-t, & 0 < t < 2 \\ 0, & t = 0 \end{cases}$ aus [[VL.37 Reele Fourieranalyse]].
 
 An der Unstetigkeitsstelle 0: $f(0^-) = -1$, $f(0^+) = 1$
 

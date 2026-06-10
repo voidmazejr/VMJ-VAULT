@@ -641,8 +641,8 @@ Navigation:
 
 - [[VL.05 Bäume]] – Binärbäume, Baumhöhe
 - [[VL.06 Divide and Conquer]] – Merge Sort (ähnliche Laufzeit)
-- [[VL.10 Fortgeschrittene Sortierverfahren]] – Quick Sort, Radix Sort
-- [[VL.11 AVL Bäume]] – Balancierte Bäume für effiziente Suche
+- [[VL.10 Forgeschrittene Sortierverfahren]] – Quick Sort, Radix Sort
+- [[VL.11 AVL-Bäume]] – Balancierte Bäume für effiziente Suche
 
 ---
 

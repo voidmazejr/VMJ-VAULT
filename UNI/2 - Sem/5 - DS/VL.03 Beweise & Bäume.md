@@ -260,6 +260,6 @@ $$|V| = 1 + (2^h-1) + (2^h-1) = 1 + 2^{h+1} - 2 = 2^{h+1}-1 \quad \blacksquare$$
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
 - [[VL.02 Kombinatorik - Bionmialkoeffizient]]: Produktregel, Summenregel, IE-Einführung – VL.03 liefert den Beweis
-- [[VL.04-DS – Permutationen & Catalan-Zahlen]]: Bäume als kombinatorische Objekte; Catalan-Zahlen zählen Binärbäume
+- [[VL.04 Stirling, Catalan Zahlen]]: Bäume als kombinatorische Objekte; Catalan-Zahlen zählen Binärbäume
 - [[VL.XX-DS – Graphentheorie]]: Formale Baumdefinition, Handshake Lemma in Graphen
 - [[VL.XX-DS – Vollständige Induktion]]: Induktionsprinzip; hier auf Baumstruktur angewendet

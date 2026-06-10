@@ -1,4 +1,4 @@
-**Class:** [[Formal-mathematische Grundlagen (FoG)]]  
+**Class:** [[FoG - Formal-mathematische Grundlagen]]  
 **Date:** 17-10-2025  
 **Topics:** #Aussagenlogik #Semantik #LogischeÄquivalenz #Implikation #Beweisstrategien #NatürlichesSchließen
 **Link:** [[VL.05 FoG Skript-32-35 1.pdf]]
@@ -378,6 +378,6 @@ $$\sqrt{2} = \frac{m}{n} \;\Rightarrow\; m^2 = 2n^2$$
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
 - [[VL.01-FoG – Natürliches Schließen I]]: Grundlegende Beweisregeln ($\wedge$I/E, $\vee$I/E, →I/E); bilden Basis für die ableitbaren Regeln in VL.05
-- [[VL.02-FoG – Natürliches Schließen II]]: Negationsregeln und Einführung des Falsum $\bot$; direkte Vorstufe zu BW und $\bot$E
+- [[VL.04 Natürliches Schließen II]]: Negationsregeln und Einführung des Falsum $\bot$; direkte Vorstufe zu BW und $\bot$E
 - [[VL.04-FoG – Prädikatenlogik]]: Quantoren $\forall$, $\exists$; Prop. 6.2.3 knüpft direkt an VL.04 an
-- [[Ana1/LinA – Logik-Grundlagen]]: Wahrheitstafeln und Implikation „bekannt aus Ana1/LinA" – Brücke zur Mathematik-Ausbildung  
+- [[VL.01 Mengen und Logik]]: Wahrheitstafeln und Implikation „bekannt aus Ana1/LinA" – Brücke zur Mathematik-Ausbildung  

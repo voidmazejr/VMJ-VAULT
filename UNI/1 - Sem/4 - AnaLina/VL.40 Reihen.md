@@ -71,7 +71,7 @@ heißt die **geometrische Reihe**. Sie ist die **wichtigste Reihe überhaupt**!
 
 $$\boxed{\sum_{k=0}^\infty q^k = \begin{cases} \frac{1}{1-q}, & |q| < 1 \\ \text{divergent}, & |q| \geq 1 \end{cases}}$$
 
-**Beweis:** Wurde bereits in [[VL.18 Folgen und Grenzwerte]] (Beispiel 18.12) gezeigt.
+**Beweis:** Wurde bereits in [[VL.17 Konvergenz]] (Beispiel 18.12) gezeigt.
 
 Für $|q| < 1$ ist die Partialsumme:
 
@@ -113,7 +113,7 @@ $$\boxed{\sum_{k=0}^\infty (a_k + b_k) = \sum_{k=0}^\infty a_k + \sum_{k=0}^\inf
 
 $$\boxed{\sum_{k=0}^\infty ca_k = c\sum_{k=0}^\infty a_k}$$
 
-**Beweis:** Folgt unmittelbar aus den Grenzwertsätzen für Folgen (siehe [[VL.18 Folgen und Grenzwerte]]).
+**Beweis:** Folgt unmittelbar aus den Grenzwertsätzen für Folgen (siehe [[VL.17 Konvergenz]]).
 
 ### Cauchy-Produkt (ohne Beweis)
 

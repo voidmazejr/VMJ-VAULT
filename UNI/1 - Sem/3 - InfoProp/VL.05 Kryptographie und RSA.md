@@ -948,23 +948,23 @@ ggT(5, 48) = 1
 
 ### Mathematische Grundlagen
 
-- [[VL.04 Algorithmen & Objektivität]]: Euklidischer Algorithmus
+- [[VL.04 Turing Machine, Algorithmen, Objektivität]]: Euklidischer Algorithmus
 - **Zahlentheorie:** Primzahlen, Modulare Arithmetik
 - **Algebra:** Gruppentheorie, Eulersche φ-Funktion
 - **Komplexitätstheorie:** P vs. NP, Einwegfunktionen
 
 ### Informatik-Konzepte
 
-- [[VL.02 Geschichte der Informatik]]: Enigma, Turing
-- [[VL.04 Algorithmen & Objektivität]]: Primzahltests, Sieb des Eratosthenes
+- [[VL.02 History Computing]]: Enigma, Turing
+- [[VL.04 Turing Machine, Algorithmen, Objektivität]]: Primzahltests, Sieb des Eratosthenes
 - **Kryptographie:** Symmetrische Verfahren (AES), Hash-Funktionen
 - **Netzwerksicherheit:** TLS/SSL, HTTPS
 - **Blockchain:** Digitale Signaturen, Public-Key-Infrastruktur
 
 ### Wissenschaftstheorie
 
-- [[VL.03 Originalität]]: RSA als origineller Durchbruch
-- [[VL.04 Algorithmen & Objektivität]]: Objektivität, Situated Knowledge
+- [[VL.03 Can Machines Think?]]: RSA als origineller Durchbruch
+- [[VL.04 Turing Machine, Algorithmen, Objektivität]]: Objektivität, Situated Knowledge
 - **Ethik:** Dual Use, Technikfolgenabschätzung
 - **Relevanz:** Wissenschaftlicher vs. gesellschaftlicher Nutzen
 

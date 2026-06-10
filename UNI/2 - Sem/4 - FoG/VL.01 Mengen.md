@@ -256,9 +256,9 @@ $$\#(\mathcal{P}(A)) = \begin{cases} 2^{\#(A)} & \text{falls } \#(A) < \infty \\
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
 - [[VL.02 Inferenz und Regelschemata]]: Inferenzregeln bauen direkt auf induktiven Definitionen aus §1.2 auf
-- [[FoG §6.2]]: Semantik der Aussagenlogik formalisiert den Begriff der Äquivalenz aus §0.3
-- [[FoG §9.2]]: Äquivalenzrelationen formalisieren den abstrakten Begriff der Äquivalenz
-- [[FoG §10.1]]: Funktionen erweitern die Möglichkeiten zur Mengenbeschreibung
-- [[FoG §13]]: Strukturelle Induktion verallgemeinert das Prinzip aus §1.2
-- [[DS]]: Mengenlehre als Grundlage für Graphen und kombinatorische Strukturen
-- [[AlgoDat]]: Mengen als Datenstrukturen (Sets, Maps, Filter)
+- [[VL.04 Natürliches Schließen II]]: Semantik der Aussagenlogik formalisiert den Begriff der Äquivalenz aus §0.3
+- [[VL.06 Relationen]]: Äquivalenzrelationen formalisieren den abstrakten Begriff der Äquivalenz
+- [[VL.07 Abbildunge Funktionen & Kardinalität]]: Funktionen erweitern die Möglichkeiten zur Mengenbeschreibung
+- [[VL.05 Natürliches Schließen III]]: Strukturelle Induktion verallgemeinert das Prinzip aus §1.2
+- [[DS - Diskrete Strukturen]]: Mengenlehre als Grundlage für Graphen und kombinatorische Strukturen
+- [[AlgoDat - Algorithmen und Datenstrukturen]]: Mengen als Datenstrukturen (Sets, Maps, Filter)

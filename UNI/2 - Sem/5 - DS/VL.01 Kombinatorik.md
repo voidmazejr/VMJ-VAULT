@@ -234,6 +234,6 @@ Mit vollständiger Induktion beweist man Aussagen der Form $A(n)$ für alle $n \
 
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
-- [[DS VL.2 Kombinatorik]]: Urnenmodelle, Binomialkoeffizient
-- [[DS VL.3 Graphentheorie]]: Formale Definition von Graphen, Bäume
+- [[VL.02 Kombinatorik - Bionmialkoeffizient]]: Urnenmodelle, Binomialkoeffizient
+- [[VL.05 Graphentheorie]]: Formale Definition von Graphen, Bäume
 - [[DS VL.X Zahlentheorie]]: Primzahlen, Euklidischer Algorithmus, RSA

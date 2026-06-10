@@ -667,6 +667,6 @@ Schritt 4: fetch() belegt Monitor wieder → count > 0 → liest x ✅
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
 - [[VL.03 Scheduling]]: Prozesszustände (Bereit, Laufend, Blockiert) – Basis für Semaphor-Blockierung
-- [[VL.05 Deadlocks]]: Verklemmungen entstehen bei falschem Semaphor-Einsatz (zyklische Warteabhängigkeiten)
-- [[VL.06 Scheduling]]: Warteschlangen-Strategien (FCFS, Prioritäten) bei Semaphoren und Betriebsmittelverwaltung
-- [[VL.07 Speicherverwaltung]]: Shared Memory als Voraussetzung für Semaphor-basierte Synchronisation
+- [[VL.05 Betriebsmittelverwaltung]]: Verklemmungen entstehen bei falschem Semaphor-Einsatz (zyklische Warteabhängigkeiten)
+- [[VL.03 Scheduling]]: Warteschlangen-Strategien (FCFS, Prioritäten) bei Semaphoren und Betriebsmittelverwaltung
+- [[VL.06 Speicher- und Adressraumverwaltung]]: Shared Memory als Voraussetzung für Semaphor-basierte Synchronisation

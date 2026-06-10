@@ -477,5 +477,5 @@ Evaluierung [Bias-Quelle: An wem wird getestet?]
 
 - [[VL.07 Künstliche Intelligenz]]: Grundlagen von ML und neuronalen Netzen
 - [[VL.XX Wissenschaftliche Quellen]]: Bewertung von Studien zu Bias
-- [[VL.XX Kritisches Denken]]: Hinterfragen von KI-Systemen
+- [[VL.09 Kritisches Denken]]: Hinterfragen von KI-Systemen
 - [[VL.XX Ethik in der Wissenschaft]]: Verantwortung bei der Entwicklung von KI

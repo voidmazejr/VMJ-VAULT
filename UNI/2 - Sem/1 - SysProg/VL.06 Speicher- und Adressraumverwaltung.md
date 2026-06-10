@@ -395,10 +395,10 @@ $$\boxed{\text{Page-Fault-Frequency} = \text{Steuerung der Kacheln über die Feh
 
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
-- [[VL.05-Adressräume]]: Grundlage für virtuelle Adressierung und Speicherabbildung.
-- [[VL.07-Betriebssystem]]: Einordnung in Kernel-Aufgaben und Ressourcenverwaltung.
-- [[VL.08-Prozessverwaltung]]: Zusammenspiel von Speicherverwaltung und Prozesswechseln.
-- [[VL.09-Dateisysteme]]: Swap-Datei und Auslagerung als Verbindung zum Massenspeicher.
+- [[VL.05 Betriebsmittelverwaltung]]: Grundlage für virtuelle Adressierung und Speicherabbildung.
+- [[VL.07 Dateisysteme]]: Einordnung in Kernel-Aufgaben und Ressourcenverwaltung.
+- [[VL.08 Sicherheit und Architektur von BS]]: Zusammenspiel von Speicherverwaltung und Prozesswechseln.
+- [[VL.07 Dateisysteme]]: Swap-Datei und Auslagerung als Verbindung zum Massenspeicher.
 
 ### Fußnoten
 

@@ -577,5 +577,5 @@ $$\boxed{\max \sum_{i=1}^{n} v_i \cdot x_i \quad \text{unter der Bedingung} \qua
 
 - [[VL.03 Laufzeit, Tests, Datenstrukturen]]: Priority Queue & Union-Find werden von Greedy-Graphalgorithmen (Dijkstra, Kruskal) benötigt
 - [[VL.05 Branch-&-Bound, Minimax & Alpha-Beta Suche]]: Fortsetzung: Intervallauswahl, Intervallverteilung, Scheduling mit formalen Optimalitätsbeweisen
-- [[VL.07-AlgoDat – Branch and Bound]]: Verfeinerung von Backtracking mit Schranken für das 0/1-Knapsack-Problem
-- [[VL.08-AlgoDat – Dynamische Programmierung]]: Optimale Lösung für 0/1-Knapsack, gewichtete Intervallauswahl, Editierdistanz
+- [[VL.05 Branch-&-Bound, Minimax & Alpha-Beta Suche]]: Verfeinerung von Backtracking mit Schranken für das 0/1-Knapsack-Problem
+- [[VL.06 Dynamisches Programmieren]]: Optimale Lösung für 0/1-Knapsack, gewichtete Intervallauswahl, Editierdistanz

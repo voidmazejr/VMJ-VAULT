@@ -421,5 +421,5 @@ Statische Priorität (hoch → niedrig):
 
 - [[VL.02 Betriebssyteme und Prozesse]]: Prozesszustände, Bereit → Laufend (Grundlage für Scheduling)
 - [[VL.04 Koordination nebenläufiger Prozesse]]: Synchronisation (Semaphore) — Prioritätsinvertierung in der Praxis
-- [[AlgoDat]]: $\mathcal{O}(n \log n)$ Sortieralgorithmen für EDD
-- [[FoG §7]]: Partielle Ordnungen, Abhängigkeiten zwischen Prozessen
+- [[AlgoDat - Algorithmen und Datenstrukturen]]: $\mathcal{O}(n \log n)$ Sortieralgorithmen für EDD
+- [[VL.06 Relationen]]: Partielle Ordnungen, Abhängigkeiten zwischen Prozessen

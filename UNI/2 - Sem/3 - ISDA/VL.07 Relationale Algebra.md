@@ -26,11 +26,11 @@ Die relationale Algebra behandelt Relationen wie Mengen und berechnet daraus **v
 
 ### Menge vs. Multimenge
 
-| Eigenschaft | Menge | Multimenge |
-|---|---|---|
-| Duplikate | ❌ nicht erlaubt | ✅ erlaubt |
-| Verwendung | Relationale Algebra (Theorie) | SQL / DBMS (Praxis) |
-| Vorteil | Saubere Semantik | Effizienzsteigerung |
+| Eigenschaft | Menge                         | Multimenge          |
+| ----------- | ----------------------------- | ------------------- |
+| Duplikate   | ❌ nicht erlaubt               | ✅ erlaubt           |
+| Verwendung  | Relationale Algebra (Theorie) | SQL / DBMS (Praxis) |
+| Vorteil     | Saubere Semantik              | Effizienzsteigerung |
 
 >💡 **Merkhilfe:** Eine Relation ist eine **Menge** von Tupeln, eine Datenbanktabelle ist eine **Multimenge** von Tupeln.
 
@@ -147,7 +147,7 @@ $$\boxed{R \bowtie S}$$
 
 $$R \bowtie S = \pi_L\bigl(\sigma_{R.A_1 = S.A_1 \;\land\; \dots \;\land\; R.A_n = S.A_n}(R \times S)\bigr)$$
 
->💡 **Rolle:** Wird zur verlustfreien Wiederherstellung nach Dekomposition verwendet (vgl. [[ISDA 04 – Normalisierung]]).
+>💡 **Rolle:** Wird zur verlustfreien Wiederherstellung nach Dekomposition verwendet (vgl. [[VL.05 Relationale Entwurfstheorie]]).
 
 ### Theta-Join ($\bowtie_\theta$)
 
@@ -396,5 +396,5 @@ $$\boxed{R \uplus S}$$
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
 - [[VL.04 Relationaler Entwurf]]: Der natürliche Join wird zur **verlustfreien Wiederherstellung** dekomponierter Relationen eingesetzt.
-- [[ISDA 08 – SQL]]: SQL implementiert die relationale Algebra deklarativ; Konzepte wie `SELECT`, `WHERE`, `JOIN`, `GROUP BY` entsprechen direkt $\pi$, $\sigma$, $\bowtie$, $\gamma$.
+- [[VL.08 SQL-DQL]]: SQL implementiert die relationale Algebra deklarativ; Konzepte wie `SELECT`, `WHERE`, `JOIN`, `GROUP BY` entsprechen direkt $\pi$, $\sigma$, $\bowtie$, $\gamma$.
 - [[VL.05 Relationale Entwurfstheorie]]: Grundlage: Wie Basisrelationen erstellt und manipuliert werden, auf denen die Algebra aufbaut.

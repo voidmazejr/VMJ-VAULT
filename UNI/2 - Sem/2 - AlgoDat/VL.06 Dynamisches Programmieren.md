@@ -716,8 +716,8 @@ $$\boxed{\text{Speicheroptimierung möglich: } O(\min(|a|, |b|))}$$
 
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
-- [[Greedy Algorithmen]]: Gewichtete Intervallauswahl zeigt, wann Greedy nicht mehr ausreicht.
-- [[Divide and Conquer]]: DP erweitert die rekursive Zerlegung um systematische Zwischenspeicherung.
+- [[VL.04 Backtracking & Gierige Algo]]: Gewichtete Intervallauswahl zeigt, wann Greedy nicht mehr ausreicht.
+- [[VL.06 Divide and Conquer]]: DP erweitert die rekursive Zerlegung um systematische Zwischenspeicherung.
 - [[Komplexitätstheorie]]: Das Knapsack-Beispiel illustriert den Unterschied zwischen polynomial und pseudopolynomiell.
 - [[Rekursion und Induktion]]: Rekursionsformeln und Korrektheitsargumente bauen direkt darauf auf.
 - [[String-Algorithmen]]: Editierdistanz ist ein klassisches Problem des approximativen Matchings.

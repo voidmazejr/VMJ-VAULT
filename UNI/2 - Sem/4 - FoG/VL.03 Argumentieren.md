@@ -225,4 +225,4 @@ I (Rückwärts): {} ⟹ A∨B ~~> {} ⟹ A oder {} ⟹ B E (Vorwärts): {A∨B} 
 
 - [[VL.02 Inferenz und Regelschemata]]: Regelnotation, Ableitungsbäume – Basis für §4
 - [[VL.04 Natürliches Schließen II]]: Regeln für $=$, $\forall$, $\exists$
-- [[VL.06-FoG – Natürliches Schließen III]]: Negation, AL-Semantik, logische Äquivalenz
+- [[VL.05 Natürliches Schließen III]]: Negation, AL-Semantik, logische Äquivalenz

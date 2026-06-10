@@ -623,6 +623,6 @@ Keine mehrfache Speicherung von Laenge, Typ und StudioName pro Schauspieler.
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
 - [[VL.04 Relationaler Entwurf]]: Die heutige Vorlesung baut direkt auf Relation, Tupel, Attribut, Relationsschema und der Übersetzung von E/R-Modellen auf.
-- [[VL.06 SQL DDL DML]]: Normalisierte Schemata werden in späteren Vorlesungen in SQL als Tabellen, Schlüssel und Constraints umgesetzt.
-- [[ER-Modell]]: Gute konzeptionelle Modellierung reduziert bereits viele spätere Normalisierungsprobleme.
-- [[Integritaetsbedingungen]]: Funktionale Abhängigkeiten motivieren Schlüssel- und Konsistenzbedingungen im relationalen Modell.
+- [[VL.06 Datenbankdarstellung mit SQL]]: Normalisierte Schemata werden in späteren Vorlesungen in SQL als Tabellen, Schlüssel und Constraints umgesetzt.
+- [[VL.02 Datenbankmodellierung]]: Gute konzeptionelle Modellierung reduziert bereits viele spätere Normalisierungsprobleme.
+- [[VL.06 Datenbankdarstellung mit SQL]]: Funktionale Abhängigkeiten motivieren Schlüssel- und Konsistenzbedingungen im relationalen Modell.

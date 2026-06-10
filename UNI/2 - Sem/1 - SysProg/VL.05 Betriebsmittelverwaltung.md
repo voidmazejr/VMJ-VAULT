@@ -474,8 +474,8 @@ $$\boxed{\text{Praxis} = \text{Erkennen + gezielte Reparatur}}$$
 
 - [[VL.04 Koordination nebenläufiger Prozesse]]: Kritische Abschnitte, Sperren und gegenseitiger Ausschluss.
 - [[VL.06 Speicher- und Adressraumverwaltung]]: Speicherverwaltung, Paging und Verdrängungsstrategien als weiterer Ressourcenbereich.
-- [[VL.07-Betriebssysteme]]: Einordnung der Deadlock-Behandlung im Kernel.
-- [[VL.08-Verteilte Systeme]]: Logische Zeit, Protokolle und dezentrale Koordination.
+- [[VL.07 Dateisysteme]]: Einordnung der Deadlock-Behandlung im Kernel.
+- [[VL.08 Sicherheit und Architektur von BS]]: Logische Zeit, Protokolle und dezentrale Koordination.
 
 ### Fußnoten
 [^1]: Die Verklemmungsvermeidung ist theoretisch elegant, aber in der Praxis oft nur eingeschränkt nutzbar, weil zukünftige Anforderungen unbekannt sind.

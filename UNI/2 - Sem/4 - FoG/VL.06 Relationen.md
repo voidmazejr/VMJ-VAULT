@@ -292,7 +292,7 @@ PQ:      A ──P──→ B ──Q──→ C
 
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
-- [[VL.05 Mengen & Mengenoperationen]]: Relationen sind spezielle Mengen – alle Mengenoperationen ($\cup$, $\cap$, $\setminus$) anwendbar.
-- [[VL.08 Abbildungen & Funktionen]]: Funktionen sind spezielle Relationen (linkstotal + rechtseindeutig); Kompositionsbegriff konsistent mit $Q \circ P$.
+- [[VL.01 Mengen]]: Relationen sind spezielle Mengen – alle Mengenoperationen ($\cup$, $\cap$, $\setminus$) anwendbar.
+- [[VL.07 Abbildunge Funktionen & Kardinalität]]: Funktionen sind spezielle Relationen (linkstotal + rechtseindeutig); Kompositionsbegriff konsistent mit $Q \circ P$.
 - [[VL.09 Äquivalenzrelationen]]: Binäre Relationen mit Reflexivität, Symmetrie, Transitivität.
 - [[VL.10 Ordnungsrelationen]]: Partielle und totale Ordnungen als spezielle binäre Relationen.

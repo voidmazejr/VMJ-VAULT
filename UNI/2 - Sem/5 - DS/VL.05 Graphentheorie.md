@@ -502,4 +502,4 @@ G = 1-2-3-4-5-6  mit 3 als Schnittknoten:
 - [[VL.01 Kombinatorik]]: Graphen nutzen Mengenoperationen ($V, E, \mathcal{P}_2$); Äquivalenzrelationen entsprechen Zusammenhangskomponenten
 - [[VL.02 Kombinatorik - Bionmialkoeffizient]]: Induktionsbeweise für Baumstruktur (Kantenanzahl, Minimalgrad)
 - [[VL.03 Beweise & Bäume]]: Schubfachprinzip im Beweis des Handshaking-Folgesatzes
-- [[VL.05 DS - Graphentheorie II]]: Euler-Touren, Hamiltonkreise, planare Graphen, Färbung
+- [[VL.06 Mehrfachzusammenhang und Rundtouren]]: Euler-Touren, Hamiltonkreise, planare Graphen, Färbung

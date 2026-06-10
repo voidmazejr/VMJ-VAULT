@@ -267,6 +267,6 @@ Sortiert | Unsortiert
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
 - [[VL.02 Simple-Sort]] – Weitere Sortieralgorithmen (Selection Sort, Bubble Sort, Count Sort)
-- [[VL.3 Laufzeit und Speicherplatz]] – Laufzeitanalyse von Insertion Sort
-- [[VL.4 Datenstrukturen]] – Arrays als Grundlage für Sortieralgorithmen
-- [[VL.7 Korrektheitsbeweise]] – Beweis der Korrektheit von Insertion Sort
+- [[VL.03 Komplexität]] – Laufzeitanalyse von Insertion Sort
+- [[VL.04 Einfache Datenstrukturen]] – Arrays als Grundlage für Sortieralgorithmen
+- [[VL.07 Korrektheitsbeweis]] – Beweis der Korrektheit von Insertion Sort

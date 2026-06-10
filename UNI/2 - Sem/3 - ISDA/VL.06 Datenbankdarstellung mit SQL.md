@@ -214,25 +214,6 @@ DROP SCHEMA UNIVERSITÄT_DB CASCADE;
 
 ⚠️ **Achtung:** Beim Entfernen von Tabellen oder Spalten muss geprüft werden, ob Constraints, Views oder Referenzen betroffen sind.
 
-### ASCII-Diagramm: Wirkung von DDL
-
-```text
-┌──────────────┐
-│ CREATE SCHEMA│
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│ CREATE TABLE │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│ ALTER TABLE  │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│ DROP TABLE   │
-└──────────────┘
-```
 
 ---
 
@@ -900,5 +881,5 @@ $$\boxed{\text{Trigger} = \text{automatische Aktion bei INSERT, UPDATE oder DELE
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
 - [[VL.05 Relationale Entwurfstheorie]]: Die heutige Vorlesung setzt auf gut entworfenen Relationen, Schlüsseln und funktionalen Abhängigkeiten auf.
-- [[VL.07 Integritätsbedingungen]]: Constraints konkretisieren die inhaltlichen Integritätsregeln nun direkt in SQL.
-- [[VL.08 Relationale Algebra]]: Nach dem Erzeugen und Befüllen der Datenbank folgt als nächster Schritt die formale Anfrage auf Relationen.
+- [[VL.06 Datenbankdarstellung mit SQL]]: Constraints konkretisieren die inhaltlichen Integritätsregeln nun direkt in SQL.
+- [[VL.07 Relationale Algebra]]: Nach dem Erzeugen und Befüllen der Datenbank folgt als nächster Schritt die formale Anfrage auf Relationen.

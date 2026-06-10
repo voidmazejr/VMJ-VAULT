@@ -564,7 +564,7 @@ chmod +x myscript    # ausführbar machen
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
 - [[VL.01 Geschichte Betriebssytem]]: Geschichte der BS; der Job wurde zum Prozess (CTSS)
-- [[SysProg VL.03]]: Scheduling-Strategien (Bereit → Laufend)
-- [[SysProg VL.04]]: Synchronisation (Semaphore) — Prioritätsinvertierung in der Praxis
-- [[SysProg VL.06]]: Speicherverwaltung — virtueller Adressraum, Paging, Swapping
-- [[FoG §2]]: Inferenzregeln für induktive Definitionen von Zustandsmaschinen
+- [[VL.03 Scheduling]]: Scheduling-Strategien (Bereit → Laufend)
+- [[VL.04 Koordination nebenläufiger Prozesse]]: Synchronisation (Semaphore) — Prioritätsinvertierung in der Praxis
+- [[VL.06 Speicher- und Adressraumverwaltung]]: Speicherverwaltung — virtueller Adressraum, Paging, Swapping
+- [[VL.02 Inferenz und Regelschemata]]: Inferenzregeln für induktive Definitionen von Zustandsmaschinen

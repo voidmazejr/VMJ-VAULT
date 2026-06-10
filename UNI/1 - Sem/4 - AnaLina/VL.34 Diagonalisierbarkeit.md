@@ -277,7 +277,7 @@ Für eine Funktion $f$, die an allen Eigenwerten definiert ist, schreiben wir:
 
 $$\boxed{f(A) := S\begin{pmatrix} f(\lambda_1) & & 0 \\ & \ddots & \\ 0 & & f(\lambda_n) \end{pmatrix}S^{-1}}$$
 
-**Besonders wichtig:** $f(x) = e^x$ beim Lösen von Differentialgleichungen (siehe [[VL.43 Differentialgleichungen]]).
+**Besonders wichtig:** $f(x) = e^x$ beim Lösen von Differentialgleichungen (siehe [[VL.43 Lineare Differentialgleichung]]).
 
 ### Anwendung 4: Rekursionen auflösen (Fibonacci)
 
@@ -356,4 +356,4 @@ Für $A \in K^{n,n}$ sind äquivalent:
 
 - [[VL.12 Matrizen]]: $S$ muss invertierbar sein
 - [[VL.33 Eigenwerte]]: Berechnung von Eigenwerten und Eigenvektoren
-- [[VL.43 Differentialgleichungen]]: $e^A$ für DGL-Systeme (Anwendung)
+- [[VL.43 Lineare Differentialgleichung]]: $e^A$ für DGL-Systeme (Anwendung)

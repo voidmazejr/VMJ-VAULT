@@ -322,4 +322,4 @@ $$\int e^{zx},dx = \frac{1}{z}e^{zx} + c \quad (z \in \mathbb{C}, z \neq 0)$$
 - [[VL.21 Differenzierbarkeit]]: Kettenregel als Basis für Substitution
 - [[VL.26 Elementare Funktionen 2]]: Komplexe Exponentialfunktion
 - [[VL.29 Integrationsregeln 1]]: Partielle Integration, Grundintegrale
-- [[VL.37 Fourierreihen]]: Orthogonalitätsrelationen (wird dort verwendet)
+- [[VL.37 Reele Fourieranalyse]]: Orthogonalitätsrelationen (wird dort verwendet)

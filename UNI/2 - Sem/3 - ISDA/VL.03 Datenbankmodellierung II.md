@@ -425,4 +425,4 @@ Dabei bezeichnet $\mathcal{P}(E)$ die Potenzmenge von $E$, also die Menge aller 
 
 - [[VL.02 Datenbankmodellierung]]: Grundbegriffe des ER-Modells, auf denen VL.03 direkt aufbaut.
 - [[VL.04 Relationaler Entwurf]]: Überführt die hier entwickelten ER-/EER-Schemata in relationale Schemata.
-- [[VL.05-ISDA – Relationale Entwurfstheorie]]: Baut auf dem konzeptionellen und logischen Entwurf auf und behandelt funktionale Abhängigkeiten sowie Normalformen.
+- [[VL.05 Relationale Entwurfstheorie]]: Baut auf dem konzeptionellen und logischen Entwurf auf und behandelt funktionale Abhängigkeiten sowie Normalformen.

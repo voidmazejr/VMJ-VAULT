@@ -313,7 +313,7 @@ Entwickelt das nach ihm benannte **Logikkalkül**
 
 > *"Die Analytical Engine hat keine Ambitionen etwas (Neues) hervorzubringen. Sie kann [nur] das tun, was wir ihr befehlen; sie hat jedoch keine Fähigkeit zur Erkenntnis analytischer Verhältnisse oder Wahrheiten."*
 
-**Dieser Einwand wird von Turing (1950) diskutiert** - siehe [[VL.03 Originalität und Turing-Test]]
+**Dieser Einwand wird von Turing (1950) diskutiert** - siehe [[VL.03 Can Machines Think?]]
 
 ---
 

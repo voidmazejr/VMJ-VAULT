@@ -362,6 +362,6 @@ $$
 
 - [[VL.01 Mengen]]: Mengen und induktive Definitionen (§1.2) als Vorstufe
 - [[VL.04 Natürliches Schließen II]]: Natürliches Schließen (Teil II) — baut direkt auf Inferenzregeln auf
-- [[FoG §7]]: Relationen und Relationssymbole $S_{rel}$
-- [[FoG §8]]: Funktionen und Funktionssymbole $S_{fun}$
-- [[FoG §13]]: Strukturelle Induktion — Verallgemeinerung des Prinzips aus §2.2
+- [[VL.06 Relationen]]: Relationen und Relationssymbole $S_{rel}$
+- [[VL.07 Abbildunge Funktionen & Kardinalität]]: Funktionen und Funktionssymbole $S_{fun}$
+- [[VL.05 Natürliches Schließen III]]: Strukturelle Induktion — Verallgemeinerung des Prinzips aus §2.2

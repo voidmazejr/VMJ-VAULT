@@ -249,6 +249,6 @@ Data Science beschäftigt sich mit der exakten digitalen Erfassung, Analyse und 
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
 - [[VL.02 Datenbankmodellierung]]: Datenbankmodellierung I — ER-Diagramme und Miniwelt
-- [[ISDA VL.03]]: Datenbankmodellierung II — EER und komplexe Modelle
-- [[FoG - Formal-Mathematische]]: Mengen, Relationen und Prädikatenlogik als mathematische Grundlage
-- [[SysProg]]: Datenhaltung, Speicherhierarchien und Betriebssystem-Grundlagen
+- [[VL.03 Datenbankmodellierung II]]: Datenbankmodellierung II — EER und komplexe Modelle
+- [[FoG - Formal-mathematische Grundlagen]]: Mengen, Relationen und Prädikatenlogik als mathematische Grundlage
+- [[SysProg - Systemprogrammierung]]: Datenhaltung, Speicherhierarchien und Betriebssystem-Grundlagen

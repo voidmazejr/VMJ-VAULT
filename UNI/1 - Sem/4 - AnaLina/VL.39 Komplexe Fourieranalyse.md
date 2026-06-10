@@ -159,7 +159,7 @@ Dies kann die Berechnung vereinfachen: Man muss nur die Koeffizienten für $k \g
 
 ### Funktion
 
-Die 2-periodische Funktion $f : \mathbb{R} \to \mathbb{R}$ aus [[VL.37 Fourieranalysis]]:
+Die 2-periodische Funktion $f : \mathbb{R} \to \mathbb{R}$ aus [[VL.37 Reele Fourieranalyse]]:
 
 $$f(t) = \begin{cases} 1 - t, & 0 < t < 2 \\ 0, & t = 0 \end{cases}$$
 

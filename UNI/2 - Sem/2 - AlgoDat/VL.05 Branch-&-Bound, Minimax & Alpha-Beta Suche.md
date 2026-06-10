@@ -585,5 +585,5 @@ $$\boxed{\text{Branch-and-Bound: } O(2^K) \text{ im Worst Case}}$$
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
 - [[VL.04 Backtracking & Gierige Algo]]: Minimax und Branch-and-Bound sind beide Erweiterungen von Backtracking – Minimax fügt Bewertung hinzu, B&B fügt Schranken hinzu.
-- [[VL.08 Dynamisches Programmieren]]: Für das 0/1-Rucksackproblem existiert eine DP-Lösung in $O(K \cdot W)$; für BestDifference ist DP laut Skript sogar effizienter als Minimax/Alpha-Beta.
+- [[VL.06 Dynamisches Programmieren]]: Für das 0/1-Rucksackproblem existiert eine DP-Lösung in $O(K \cdot W)$; für BestDifference ist DP laut Skript sogar effizienter als Minimax/Alpha-Beta.
 - [[VL.13 Heuristische Algorithmen]]: Killer-Heuristik, Ruhesuche und A* zeigen, wie heuristische Ideen exakte Suchverfahren praktisch beschleunigen.

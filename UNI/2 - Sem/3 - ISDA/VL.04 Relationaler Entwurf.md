@@ -546,5 +546,5 @@ $$\boxed{\text{Relationaler Entwurf} = \text{Abbildung aus ER} + \text{Verfeiner
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
 - [[VL.02 Datenbankmodellierung]]: Grundlage für diese Vorlesung; dort werden Entity-Typen, Relationship-Typen, Generalisierung und Aggregation konzeptionell entwickelt.
-- [[VL.05-ISDA – Relationale Entwurfstheorie]]: Dort folgen funktionale Abhängigkeiten, Dekomposition und Normalformen.
-- [[VL.06-ISDA – SQL]]: Die hier entworfenen Relationen werden später als Tabellen mit `PRIMARY KEY` und `FOREIGN KEY` in SQL implementiert.
+- [[VL.05 Relationale Entwurfstheorie]]: Dort folgen funktionale Abhängigkeiten, Dekomposition und Normalformen.
+- [[VL.06 Datenbankdarstellung mit SQL]]: Die hier entworfenen Relationen werden später als Tabellen mit `PRIMARY KEY` und `FOREIGN KEY` in SQL implementiert.

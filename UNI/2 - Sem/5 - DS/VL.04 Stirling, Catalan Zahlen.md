@@ -1,4 +1,4 @@
-**Class:** [[Diskrete Strukturen]]  
+**Class:** [[DS - Diskrete Strukturen]]  
 **Date:** 29-04-2026  
 **Topics:** #DiskreteStrukturen #Binaerbaeume #CatalanZahlen #Permutationen #StirlingZahlen #Partitionen
 

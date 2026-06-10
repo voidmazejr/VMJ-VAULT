@@ -287,4 +287,4 @@ IoT Devices / Sensors (Connected Cars, Smart Traffic Lights, ...)
 - [[VL.03 Scheduling]]: Scheduling — Verwaltung von Prozessen (aus VL.01: Job → Prozess)
 - [[SysProg VL.10 Virtualisierung]]: vertieft Hypervisor und Virtualisierungsformen
 - [[SysProg VL.10 Microservices]]: Cloud-native Architektur als Weiterentwicklung von Cloud
-- [[FoG - Formal-Mathematische]]: Formale Modelle für BS-Zustände und -Übergänge
+- [[FoG - Formal-mathematische Grundlagen]]: Formale Modelle für BS-Zustände und -Übergänge

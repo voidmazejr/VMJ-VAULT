@@ -1,4 +1,4 @@
-**Class:** [[Rechnerorganisation]]  
+**Class:** [[ROrg]]  
 **Date:** 2025  
 **Topics:** #Cache #Speicherhierarchie #Assoziativität #Hauptspeicher #CacheLeistung
 

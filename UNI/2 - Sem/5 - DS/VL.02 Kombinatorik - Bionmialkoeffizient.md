@@ -286,8 +286,8 @@ $$\binom{m}{1} - \binom{m}{2} + \binom{m}{3} - \cdots \pm \binom{m}{m} = \sum_{r
 
 ## 🔗 Verbindungen zu anderen Vorlesungen
 
-- [[DS VL.01]]: Unabhängige Mengen, kTM und rec-IS — Grundlage für Laufzeitanalyse
-- [[DS VL.03]]: Fortsetzung §3 — vollständiger Beweis von Inklusion-Exklusion (29.04.2026)
-- [[FoG §3]]: Vollständige Induktion — Permutationssatz per Induktion
-- [[FoG §1]]: Mengenlehre — Schnitt, Vereinigung, disjunkte Vereinigung
-- [[AlgoDat]]: Laufzeitanalyse; $\binom{n}{k}$ als Laufzeitschranke
+- [[VL.01 Kombinatorik]]: Unabhängige Mengen, kTM und rec-IS — Grundlage für Laufzeitanalyse
+- [[VL.03 Beweise & Bäume]]: Fortsetzung §3 — vollständiger Beweis von Inklusion-Exklusion (29.04.2026)
+- [[VL.03 Argumentieren]]: Vollständige Induktion — Permutationssatz per Induktion
+- [[VL.01 Mengen]]: Mengenlehre — Schnitt, Vereinigung, disjunkte Vereinigung
+- [[AlgoDat - Algorithmen und Datenstrukturen]]: Laufzeitanalyse; $\binom{n}{k}$ als Laufzeitschranke

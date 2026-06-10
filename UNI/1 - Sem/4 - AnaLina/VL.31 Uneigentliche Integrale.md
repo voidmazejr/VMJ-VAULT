@@ -176,7 +176,7 @@ mit reellen Polynomen $p$ und $q$.
 
 ### Methode: Partialbruchzerlegung
 
-Eine **(komplexe) Polynomdivision** und **Partialbruchzerlegung** (siehe [[VL.09 Polynome]]) liefert $\frac{p}{q}$ als Summe von Bestandteilen der Form:
+Eine **(komplexe) Polynomdivision** und **Partialbruchzerlegung** (siehe [[VL.08 Polynome]]) liefert $\frac{p}{q}$ als Summe von Bestandteilen der Form:
 
 1. **Polynom**
 2. $\frac{A}{x-z}$ mit Nullstellen $z \in \mathbb{C}$ des Nenners $q$
